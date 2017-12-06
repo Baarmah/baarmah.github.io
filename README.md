@@ -1,2 +1,8 @@
-# baarmah.github.io
-My Bloog
+يوجد ثلاث محاور رئيسية للشق الدفاعي (Defensive Security) فيما يتعلق بتأمين وحماية الشبكات وهى:
+
+
+
+
+  
+
+
